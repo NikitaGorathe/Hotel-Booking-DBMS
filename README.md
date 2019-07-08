@@ -1,0 +1,4 @@
+# Hotel-Booking-DBMS
+
+Our main goal is to create a hypothetical booking database for Studio 6 Motel in Richardson 
+Conceptually, the database should include a table Hotel which describes attributes such as BRANCH_NO, LOCATION, and NO_OF_ROOMS. The database should also include tables such as Reservation which describes attributes like RESERVATION_ID, DATE_CHECKIN, DATE_CHECKOUT, GUEST_ID, and ROOM_ID. The database should include a table Room which describes attributes such as ROOM_ID, ROOM_TYPE, STATUS, PRICE, GUEST_ID, and BRANCH_NO. The database should include table such as Employees which describes attributes such as EMPLOYEE_ID, F_NAME, L_NAME, PHONE, POSITION, SALARY, DOB, SEX and BRANCH_NO. The database should include table such as guest which describes attributes such as GUEST_ID, F_NAME, L_NAME, ADDRESS, PHONE, and DL_ID.  We will be using Microsoft SQL Server to implement the database.
